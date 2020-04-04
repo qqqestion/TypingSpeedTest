@@ -1,0 +1,7 @@
+# text editors files
+.idea
+.vscode
+
+# python files
+__pycache__/
+venv
